@@ -1,10 +1,10 @@
 #### PR Details
 
-#### Ticket Type	  
+#### Ticket Type
 - [] Feature
 - [] Bug
 - [] Task
-		  
+
 #### Feature/Ticket Status
 - [] Partial (Not Ready for QA)
 - [] Complete (Ready for QA)
